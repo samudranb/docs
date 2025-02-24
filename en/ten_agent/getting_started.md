@@ -45,7 +45,7 @@ In this chapter, let's build the TEN Agent playground together.
 For Apple Silicon Macs, uncheck "Use Rosetta for x86/amd64 emulation" in Docker settings. Note: This may result in slower build times on ARM, but performance will be normal when deployed to x64 servers.
 {% endhint %}
 
-<figure><img src="../assets/gif/docker_setting.gif" alt="" width="563"><figcaption><p>Make sure the box is unchecked</p></figcaption></figure>
+<figure><img src="../../assets/gif/docker_setting.gif" alt="" width="563"><figcaption><p>Make sure the box is unchecked</p></figcaption></figure>
 
 ## Next step
 
