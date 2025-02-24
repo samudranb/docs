@@ -32,7 +32,7 @@ docker compose up -d
 
 After executing this command, the container should start. Open VSCode, switch to the Docker extension, and you should see the running container.
 
-![Docker Containers](../assets/png/docker_containers.png)
+![Docker Containers](../../assets/png/docker_containers.png)
 
 ## Step 4: Connect to the Container
 
