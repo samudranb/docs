@@ -80,7 +80,7 @@
 
 1. **Support for Multiple Programming Languages**: The framework supports modules written in various languages (e.g., C/C++, Go, Java, Python), enabling diverse development environments.
 
-   <figure><img src="../assets/png/various_language_support.png" alt=""><figcaption><p>Programming Language Support</p></figcaption></figure>
+   <figure><img src="../../assets/png/various_language_support.png" alt=""><figcaption><p>Programming Language Support</p></figcaption></figure>
 
 2. **Cross-language Module Integration**: Modules written in different languages can run together within the same process.
 
